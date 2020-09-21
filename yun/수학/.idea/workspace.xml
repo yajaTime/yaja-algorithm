@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9cff9519-b586-40e2-a193-e6485a3dbefc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../스택/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../스택/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../스택/4949_균형잡힌세상/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../스택/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../스택/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +40,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="828" />
@@ -121,16 +119,15 @@
       <option name="presentableId" value="Default" />
       <updated>1600082646945</updated>
       <workItem from="1600082651479" duration="4126000" />
-      <workItem from="1600161537235" duration="605000" />
+      <workItem from="1600161537235" duration="640000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4731000" />
+    <option name="totallyTimeSpent" value="4766000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="828" extended-state="1" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1440" height="828" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
