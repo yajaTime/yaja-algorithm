@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/10773_제로/10773_제로.iml" filepath="$PROJECT_DIR$/10773_제로/10773_제로.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1874_수열/1874_수열.iml" filepath="$PROJECT_DIR$/1874_수열/1874_수열.iml" />
       <module fileurl="file://$PROJECT_DIR$/4949_균형잡힌세상/4949_균형잡힌세상.iml" filepath="$PROJECT_DIR$/4949_균형잡힌세상/4949_균형잡힌세상.iml" />
       <module fileurl="file://$PROJECT_DIR$/9012_괄호/9012_괄호.iml" filepath="$PROJECT_DIR$/9012_괄호/9012_괄호.iml" />
     </modules>
