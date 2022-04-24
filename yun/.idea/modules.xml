@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/yun.iml" filepath="$PROJECT_DIR$/.idea/yun.iml" />
+      <module fileurl="file://$PROJECT_DIR$/큐,덱/큐2/큐2.iml" filepath="$PROJECT_DIR$/큐,덱/큐2/큐2.iml" />
     </modules>
   </component>
 </project>
