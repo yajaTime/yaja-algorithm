@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/카드2/카드2.iml" filepath="$PROJECT_DIR$/카드2/카드2.iml" />
       <module fileurl="file://$PROJECT_DIR$/큐,덱.iml" filepath="$PROJECT_DIR$/큐,덱.iml" />
     </modules>
   </component>
